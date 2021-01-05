@@ -14,6 +14,10 @@ local.properties
 .settings/
 .loadpath
 .recommenders
+### Eclipse add
+MANIFEST.MF
+.classpath
+.project
 
 # External tool builders
 .externalToolBuilders/
@@ -136,7 +140,6 @@ $RECYCLE.BIN/
 ## Tomcat - Servers
 Servers
 
-## 폴더 무시
-Model2_Project
+## folder
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,eclipse,java,java-web,text
